@@ -90,6 +90,12 @@ Page {
 						readOnly: isReadOnly(VenusOS.CanBusProfile_RvC)
 					},
 					{
+						//% "VE.Can & CAN-bus BMS (500 kbit/s)"
+						display: qsTrId("settings_canbus_vecan_and_can_bus_bms500"),
+						value: VenusOS.CanBusProfile_VecanAndCanBms500,
+						readOnly: isReadOnly(VenusOS.CanBusProfile_VecanAndCanBms500)
+					},
+					{
 						//% "Up, but no services (250 kbit/s)"
 						display: qsTrId("settings_up_bu_no_services"),
 						value: VenusOS.CanBusProfile_None250,

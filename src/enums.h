@@ -398,7 +398,8 @@ public:
 		CanBusProfile_CanBms500,
 		CanBusProfile_Oceanvolt,
 		CanBusProfile_None250,
-		CanBusProfile_RvC
+		CanBusProfile_RvC,
+		CanBusProfile_VecanAndCanBms500,
 	};
 	Q_ENUM(CanBusProfile_Type)
 
