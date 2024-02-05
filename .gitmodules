@@ -1,4 +1,4 @@
 [submodule "veutil"]
 	path = src/veutil
-	url = git@github.com:rkapsi/veutil.git
+	url = https://github.com/rkapsi/veutil.git
 	branch = rkapsi/vecan_and_bms_500
